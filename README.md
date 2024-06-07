@@ -1,36 +1,22 @@
-# Uber UI clone [flutter]
 
-Here's a description you can add to the README file of your Uber app clone using Flutter on GitHub:
-
----
-
-## Uber App Clone
+**Uber App Clone**
 =====================
 
 A Flutter-based clone of the popular ride-hailing app Uber.
 
-## Overview
+**Overview**
 ------------
 
 This Flutter app provides a user-friendly interface for booking rides and tracking the location of the driver. It includes features such as real-time tracking, estimated arrival times, and payment processing.
 
-## Features
+**Features**
 ------------
 
-## - Real-Time Tracking:
-Provides real-time tracking of the driver's location, allowing users to track their ride in real-time.
-
-## - Estimated Arrival Times:
-Displays estimated arrival times for the ride, helping users plan their journey.
-
-## - Payment Processing: 
-Allows users to pay for their rides using various payment methods.
-
-## - Ride Booking:
-Enables users to book rides with ease, including selecting pickup and drop-off locations.
-
-## - Driver Management:
-Allows administrators to manage drivers, including assigning rides and tracking their location.
+- **Real-Time Tracking**: Provides real-time tracking of the driver's location, allowing users to track their ride in real-time.
+- **Estimated Arrival Times**: Displays estimated arrival times for the ride, helping users plan their journey.
+- **Payment Processing**: Allows users to pay for their rides using various payment methods.
+- **Ride Booking**: Enables users to book rides with ease, including selecting pickup and drop-off locations.
+- **Driver Management**: Allows administrators to manage drivers, including assigning rides and tracking their location.
 
 **Getting Started**
 -------------------
